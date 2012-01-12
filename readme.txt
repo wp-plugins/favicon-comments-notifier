@@ -10,7 +10,7 @@ Displays the number of comments awaiting moderation on site's favicon when admin
 
 == Description ==
 
-This pugin works just like Gmail's favicon when it shows the number of unread mail – it shows the number of comments awaiting moderation on your site's favicon. Based on [Notificon script] (https://github.com/makeable/Notificon "Notificon at GitHub").
+This pugin works just like Gmail's favicon when it shows the number of unread mail – it shows the number of comments awaiting moderation on your site's favicon. Based on `Notificon script` (see https://github.com/makeable/Notificon).
 
 == Installation ==
 

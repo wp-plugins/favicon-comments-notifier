@@ -6,11 +6,11 @@ Requires at least: 2.7
 Tested up to: 3.3.1
 Stable tag: 1.0
 
-Displays the number of comments awaiting moderation when admin is logged in.
+Displays the number of comments awaiting moderation on site's favicon when admin is logged in.
 
 == Description ==
 
-This pugin works just like Gmail`s favicon when it shows the number of unread mail – it shows the number of comments awaiting moderation on your site`s favicon. Based on [Notificon script] (https://github.com/makeable/Notificon "Notificon at GitHub").
+This pugin works just like Gmail's favicon when it shows the number of unread mail – it shows the number of comments awaiting moderation on your site's favicon. Based on [Notificon script] (https://github.com/makeable/Notificon "Notificon at GitHub").
 
 == Installation ==
 
@@ -19,11 +19,11 @@ This pugin works just like Gmail`s favicon when it shows the number of unread ma
 
 == Frequently Asked Questions ==
 
-= I`ve activated plugin but don`t see any numbers on my favicon =
+= I've activated plugin but don`t see any numbers on my favicon =
 
-Make sure your favicon.ico is in your site`s root directory (where wp-config.php usually is) and NOT in your theme`s folder.
+Make sure your favicon.ico is in your site's root directory (where wp-config.php usually is) and NOT in your theme`s folder.
 
-= I`ve got favicon in my root folder but still don`t see numbers =
+= I've got favicon in my root folder but still don't see numbers =
 Your favicon must be in .ICO format and not in .PNG or .GIF or any other.
 
 = Which browsers are supported? =

@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: seezer
-Donate link: http://blogservice.uz/
+Donate link:
 Tags: comments, favicon, admin, notification
 Requires at least: 2.7
 Tested up to: 3.3.1

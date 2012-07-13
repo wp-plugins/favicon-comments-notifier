@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Favicon comments notifier
-Plugin URI: http://blogservice.uz/archives/category/plugins
+Plugin URI:
 Description: This plugin notifies admin (in Gmail-style) via favicon how many comments are awaiting moderation. The number of comments awaiting moderation will show in blog`s favicon.
 Version: 1.0
 Author: Azim Hikmatov
-Author URI: http://blogservice.uz/
+Author URI:
 */
 ?>
 <?php function favicon_link_display() { ?>
